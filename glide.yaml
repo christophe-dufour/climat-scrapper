@@ -1,0 +1,4 @@
+package: github.com/christophe-dufour/climat-scrapper
+import:
+- package: github.com/PuerkitoBio/goquery
+  version: ^1.3.0
